@@ -42,6 +42,20 @@
 
 ***
 
+## IV) Install the drivers for RaspiAudio MIC+ board:
+***
+### sudo wget -O - mic.raspiaudio.com | sudo bash
+### sudo shutdown -r 0
+### sudo wget -O - test.raspiaudio.com | sudo bash
+
+***
+## V) Install startup script (rc.local) from etc directory.
+***
+
+### sudo cp rc.local /etc/rc.local
+
+***
+
 ## Useful Links:
 
 ### RaspberryPi OS download and install via NOOBS: https://www.raspberrypi.org/downloads/
