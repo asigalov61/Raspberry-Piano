@@ -6,11 +6,13 @@
 ***
 ## II) Install all requirements below:
 ***
-### 1) Pytorch
+### 1) Pytorch (use PyTorch4Raspbery.sh script)
 
-### 2) Tensorflow 2
+### 2) Tensorflow 2 (use Tensorflow4Raspberry script)
 
-### 3) Keras 2
+### 3) Keras 2 (use Keras4Raspberry.sh script)
+
+### 4) Numpy (use Numpy4Raspberry.sh script)
 
 ## III) Install the rest of the required packages by using the commands below:
 ***
