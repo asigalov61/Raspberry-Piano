@@ -2,7 +2,7 @@
 
 ***
 
-## NOTE: Root dir should be /home/pi/Raspberry_Piano
+## NOTE: Root dir for the Raspberry Piano files should be /home/pi/Raspberry_Piano
 
 ***
 
