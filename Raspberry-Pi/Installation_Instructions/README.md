@@ -10,6 +10,7 @@
 ***
 
 ## I) Install vanilla/recommended Raspbian OS on Raspberry 4 through official installer.
+### https://www.raspberrypi.org/software/
 ***
 ## II) Install all requirements below:
 ***
