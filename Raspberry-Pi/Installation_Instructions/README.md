@@ -2,6 +2,10 @@
 
 ***
 
+## NOTE: Root dir should be /home/pi/Raspberry_Piano
+
+***
+
 ## I) Install vanilla/recommended Raspbian OS on Raspberry 4 through official installer.
 ***
 ## II) Install all requirements below:
