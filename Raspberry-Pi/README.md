@@ -32,3 +32,15 @@
 #### 6) Whatever else is compatible with everything above that you want to add/try
 
 #### 7) Do not forget to buy a suitable micro-SD card for Raspberry
+
+***
+
+## Extra RAW WAV output samples can be examined here:
+### https://soundcloud.com/aleksandr-sigalov-61/sets/raspberry-piano-tm-and
+
+***
+
+## To achieve the Raspberry Piano[TM] and Raspberry Violin[TM] original proprietory sound please use Fluidsynth (FluidR3_GM.sf2 & 16000 Sample Rate):
+### http://www.fluidsynth.org/
+
+***
