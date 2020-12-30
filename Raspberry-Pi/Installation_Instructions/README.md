@@ -53,9 +53,14 @@
 ***
 
 ### sudo cp rc.local /etc/rc.local
+### sudo shutdown -r 0
 
 ***
+## If you have done everything correctly, you should be good to go and you should hear the welcome voice prompts after the last reboot :)
 
+## Enjoy! :)
+
+***
 ## Useful Links:
 
 ### RaspberryPi OS download and install via NOOBS: https://www.raspberrypi.org/downloads/
@@ -71,3 +76,6 @@
 ### https://github.com/lhelontra/tensorflow-on-arm/releases
 ### https://www.tensorflow.org/install/install_raspbian
 ***
+
+#### Project Los Angeles
+#### Tegridy Code 2020
