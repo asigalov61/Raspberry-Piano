@@ -11,7 +11,7 @@
 
 ### OPTION 2 (Install yourself from scratch):
 
-#### Follow detailed installation instructions in the Installation_Instructions folder.
+#### Follow detailed installation instructions in the [Installation_Instructions](https://github.com/asigalov61/Raspberry-Piano/tree/main/Raspberry-Pi/Installation_Instructions) folder.
 
 ***
 
