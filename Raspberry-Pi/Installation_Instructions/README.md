@@ -1,3 +1,37 @@
+# Detailed installation instructions from scratch:
+
+***
+
+## I) Install vanilla/recommended Raspbian OS on Raspberry 4 through official installer.
+
+## II) Install all requirements below:
+
+### 1) Pytorch
+
+### 2) Tensorflow 2
+
+### 3) Keras 2
+
+## III) Install the rest of the required packages by using the commands below:
+
+### pip3 install dill
+### pip3 install --user secrets
+### pip3 install tqdm
+
+### pip3 install pandas
+### pip3 install matplotlib
+### pip3 install ipython
+
+### pip3 install music21
+### pip3 install mido
+### pip3 install pretty_midi
+### pip3 install fluidsynth
+### pip3 install pyfluidsynth
+### pip3 install midi2audio
+
+### sudo apt autoremove
+### sudo shutdown -r 0
+
 ***
 
 ## Useful Links:
