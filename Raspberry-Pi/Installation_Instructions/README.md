@@ -2,7 +2,10 @@
 
 ***
 
-## NOTE: Root dir for the Raspberry Piano files should be /home/pi/Raspberry_Piano
+## NOTES: 
+
+### 1) Root dir for the Raspberry Piano files should be /home/pi/Raspberry_Piano
+### 2) Do not forget to unzip Raspberry_Piano_Dataset.zip because the model will need it and because it primes from it.
 
 ***
 
