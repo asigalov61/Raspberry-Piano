@@ -19,9 +19,11 @@
 
 ### You will need only SIX inexpensive hardware components:
 
-#### 1) ONE Raspberry Pi 4 Model B 2019 Quad Core 64 Bit WiFi Bluetooth (4GB)
+#### 1) ONE Raspberry Pi 4 Model B 2019 Quad Core 64 Bit WiFi Bluetooth 4GB (8GB preferrable)
+#### https://www.raspberrypi.org/products/raspberry-pi-4-model-b/
 
-#### 2) ONE Audio DAC HAT Sound Card (Audio+Speaker+MIC) for Raspberry Pi4 /Pi Zero / Pi3 / Pi3B / Pi3B+ / Pi2 / Better Quality Than USB
+#### 2) ONE RaspiAudio MIC+ Audio DAC HAT Sound Card (Audio+Speaker+MIC) for Raspberry Pi4 /Pi Zero / Pi3 / Pi3B / Pi3B+ / Pi2 / Better Quality Than USB
+#### https://raspiaudio.com/produit/mic
 
 #### 3) ONE 3.5A Raspberry Pi 4 Power Supply with Switch (USB-C)
 
@@ -31,7 +33,7 @@
 
 #### 6) Whatever else is compatible with everything above that you want to add/try
 
-#### 7) Do not forget to buy a suitable micro-SD card for Raspberry
+#### 7) Do not forget to buy a suitable micro-SD card for Raspberry (32GB+ recommended)
 
 ***
 
