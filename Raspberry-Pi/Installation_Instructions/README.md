@@ -6,6 +6,7 @@
 
 ### 1) Root dir for the Raspberry Piano files should be /home/pi/Raspberry_Piano
 ### 2) Do not forget to unzip Raspberry_Piano_Chamber_Dataset.zip because the model will need it and because it primes from it.
+### 3) Install procedure below was tested to work w/o any problems, so please follow install instructions carefully and in the provided order.
 
 ***
 
@@ -16,7 +17,7 @@
 ***
 ### 1) Pytorch (use PyTorch4Raspbery.sh script)
 
-### 2) Tensorflow 2 (use Tensorflow4Raspberry script)
+### 2) Tensorflow 2 (use Tensorflow4Raspberry.sh script)
 
 ### 3) Keras 2 (use Keras4Raspberry.sh script)
 
