@@ -61,6 +61,7 @@
 
 ***
 ## If you have done everything correctly, you should be good to go and you should hear the welcome voice prompts after the last reboot :)
+## Otherwise, please see /home/pi/Raspberry_Piano/RPlogfile.log which should tell you what is the problem if you installed rc.local script above.
 
 ## Enjoy! :)
 
