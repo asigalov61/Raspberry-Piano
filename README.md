@@ -3,7 +3,7 @@
 
 ***
 
-## The power of the Music Artificial Intelligence in your hand!
+## The power of the Music Artificial Intelligence in the palm of your hand!
 
 ***
 
