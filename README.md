@@ -20,13 +20,13 @@
 
 ***
 
-![Raspberry Piano](https://github.com/asigalov61/Raspberry-Piano/raw/main/Screenshots/Raspberry-Piano.jpg?raw=true)
-
-***
-
 ![Raspberry Piano](https://github.com/asigalov61/Raspberry-Piano/raw/main/Screenshots/Raspberry-Piano-3.png?raw=true)
 
 ***
 
+![Raspberry Piano](https://github.com/asigalov61/Raspberry-Piano/raw/main/Screenshots/Raspberry-Piano.jpg?raw=true)
+
+***
+
 #### Project Los Angeles
-#### Tegridy Code 2020
+#### Tegridy Code 2021
